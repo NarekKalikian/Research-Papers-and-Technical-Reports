@@ -1,4 +1,4 @@
-# Research-Papers-and-Technical-Reports
+# Research Papers and Technical Reports
 
 All written materials in this repository are licensed under the Creative Commons Attribution-NoDerivatives 4.0 International Public License (CC BY-ND 4.0).
 
@@ -15,7 +15,7 @@ In this paper, I discuss the pre-existing concerns of accessibility and inclusiv
 
 <h3>Section Overview</h3>
 <p>
-The lab reports in this section pertain to the principles of electrical/electronic system design with relatively introductory complexity. Various circuit design, simulation, and implementation techniques and tools/software are presented. Lab work consisted of operating electrical circuit analysis tools such as multimeters, oscilloscopes, and function generators for circuits implemented on breadboards. Software such as LTSpice and MultiSim were used for pre-lab simulation purposes. practicing soldering electrical parts onto the PCB as well.
+The lab reports in this section pertain to the principles of electrical/electronic system design with relatively introductory complexity. Various circuit design, simulation, and implementation techniques and tools/software are presented. Lab work consisted of operating electrical circuit analysis tools such as multimeters, oscilloscopes, and function generators for circuits implemented on breadboards. Software such as LTSpice and MultiSim was used for pre-lab simulation purposes. Practicing soldering electrical parts onto the PCB as well.
 </p>
 
 <h2>Digital System Architecture and Design (CPE300) Lab Reports</h2>
